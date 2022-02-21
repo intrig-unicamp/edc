@@ -1,2 +1,2 @@
 
-![This is an image](https://github.com/razaulmustafa852/edc/blob/main/iNotebook/iBook.png)
+![This is an image](iBook.png)
